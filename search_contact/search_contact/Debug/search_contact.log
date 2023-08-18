@@ -1,0 +1,25 @@
+﻿Build started 11/15/2022 3:40:57 AM.
+     1>Project "C:\Users\DELL\Desktop\search_contact\search_contact\search_contact.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\search_contact.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       GenerateTargetFrameworkMonikerAttribute:
+       Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       CoreResGen:
+         No resources are out of date with respect to their source files. Skipping resource generation.
+       ResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         search_contact.vcxproj -> C:\Users\DELL\Desktop\search_contact\Debug\search_contact.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\search_contact.unsuccessfulbuild".
+         Touching "Debug\search_contact.lastbuildstate".
+     1>Done Building Project "C:\Users\DELL\Desktop\search_contact\search_contact\search_contact.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.28
